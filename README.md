@@ -1,7 +1,7 @@
 About
 -----
 
-What I use && All my tool config files
+What I use && All my tools config files
 
 Editors
 -------
