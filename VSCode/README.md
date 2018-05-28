@@ -1,6 +1,8 @@
 My VSCode config
 ----------------
 
+[Read More: VS Code 初体验](https://sanbaofengs.com/2018/02/09/vsc-experience/)
+
 ```js
 {
     "workbench.colorTheme": "Material Theme",
@@ -56,5 +58,3 @@ My VSCode config
     "terminal.integrated.rightClickBehavior": "selectWord"
 }
 ```
-
-[Read More: VS Code 初体验](https://sanbaofengs.com/2018/02/09/vsc-experience/)
