@@ -25,6 +25,6 @@ Tools
 Others
 ------
 
-- [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12): Window Manager
-- [ShadowSocks-NG](https://github.com/shadowsocks/ShadowsocksX-NG): For Proxy
-- []()
+- [Divvy](https://itunes.apple.com/us/app/divvy-window-manager/id413857545?mt=12)
+- [ShadowSocks-NG](https://github.com/shadowsocks/ShadowsocksX-NG)
+- [Ali ECS Config & Q&A](https://github.com/x-bao/aliConfig)
