@@ -21,7 +21,7 @@ Tmux
 
 Alfred
 
-[Quiver](./configs/Solarized Dark.json)
+[Quiver](https://github.com/x-bao/whatIuse/blob/master/configs/Solarized%20Dark.json)
 
 Others
 ------
