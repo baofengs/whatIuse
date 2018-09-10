@@ -23,6 +23,8 @@ Alfred
 
 [Quiver](https://github.com/x-bao/whatIuse/blob/master/configs/Solarized%20Dark.json)
 
+[Things](https://culturedcode.com/things/)
+
 Others
 ------
 
